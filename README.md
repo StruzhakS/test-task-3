@@ -11,7 +11,7 @@ the path to a JS file that has a React component that will be rendered in the ta
 
 See the example below:
 tabs.json
-![Tabs JSON](https://github.com/StruzhakS/test-task-3/blob/main/Screenshot_26.jpg
+![Tabs JSON](https://github.com/StruzhakS/test-task-3/blob/main/Screenshot_26.jpg)
 
 
 
