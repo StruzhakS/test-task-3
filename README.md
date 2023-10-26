@@ -11,11 +11,8 @@ the path to a JS file that has a React component that will be rendered in the ta
 
 See the example below:
 tabs.json
-[
-  {id: 'dummyTable', title: 'Dummy Table', order: 1, path: 'tabs/dummyTable.js'},
-  {id: 'dummyChart', title: 'Dummy Chart', order: 2, path: 'tabs/dummyChart.js'},
-  {id: 'dummyList', title: 'Dummy List', order: 0, path: 'tabs/dummyList.js'}
-];
+![Tabs JSON](https://github.com/StruzhakS/test-task-3/blob/main/Screenshot_26.jpg
+
 
 
 dummyTable.js
