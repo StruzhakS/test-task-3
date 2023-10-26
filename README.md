@@ -16,13 +16,7 @@ tabs.json
 
 
 dummyTable.js
-import React from ‘react’
-
-const DummyTable = () => (
-  <table><tr><td>Dummy</td><td>Table</td></tr></table>
-)
-
-export default DummyTable
+![Tabs JSON](https://github.com/StruzhakS/test-task-3/blob/main/Screenshot_27.jpg)
 
 
 
