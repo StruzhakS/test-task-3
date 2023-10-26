@@ -10,13 +10,10 @@ the sequential order of the tab among other tabs
 the path to a JS file that has a React component that will be rendered in the tab's content.
 
 See the example below:
-tabs.json
 ![Tabs JSON](https://github.com/StruzhakS/test-task-3/blob/main/Screenshot_26.jpg)
 
 
-
-dummyTable.js
-![Tabs JSON](https://github.com/StruzhakS/test-task-3/blob/main/Screenshot_27.jpg)
+![dummyTable.js](https://github.com/StruzhakS/test-task-3/blob/main/Screenshot_27.jpg)
 
 
 
