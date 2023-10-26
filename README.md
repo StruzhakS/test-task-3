@@ -10,6 +10,7 @@ the sequential order of the tab among other tabs
 the path to a JS file that has a React component that will be rendered in the tab's content.
 
 See the example below:
+
 ![Tabs JSON](https://github.com/StruzhakS/test-task-3/blob/main/Screenshot_26.jpg)
 
 
@@ -18,8 +19,16 @@ See the example below:
 
 
 General requirements:
-When switching between the tabs, the current tab's id must be added to the URL of the app. For example, 'localhost/dummyTable' or 'localhost/dummyChart'
-The first tab must open by default.
-If, at the time when the app is loaded, the URL already contains a tab id, that tab must open by default.
-The file for the tab content (identified with the "path" property) should be loaded only when it is needed (the lazy loading approach). For example, all files required for the "Dummy Table" should be loaded only when the "Dummy Table" tab is selected. You should be able to see and confirm that in the Network section of the browser's dev tools
-When you complete the task, it is necessary to commit your project to GitHub pages or any other alternative and share the link with us through Djinni. If we notice that any portion of your solution was borrowed or copied from another, your candidacy for the job will be immediately disqualified.
+1. When switching between the tabs, the current tab's id must be added to the URL of the app. For example, 'localhost/dummyTable' or 'localhost/dummyChart'
+
+
+2.The first tab must open by default.
+
+
+3. If, at the time when the app is loaded, the URL already contains a tab id, that tab must open by default.
+
+
+4.The file for the tab content (identified with the "path" property) should be loaded only when it is needed (the lazy loading approach). For example, all files required for the "Dummy Table" should be loaded only when the "Dummy Table" tab is selected. You should be able to see and confirm that in the Network section of the browser's dev tools.
+
+
+5. When you complete the task, it is necessary to commit your project to GitHub pages or any other alternative and share the link with us through Djinni. If we notice that any portion of your solution was borrowed or copied from another, your candidacy for the job will be immediately disqualified.
